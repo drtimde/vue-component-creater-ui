@@ -4,7 +4,7 @@ VCC (Vue Component Creator) 是一个低代码平台中的独立 Vue 组件代�
 
 **通过拖拽式操作，快速完成 Vue 组件代码骨架的搭建，提升开发效率。**
 
-> 🌐 **在线预览**: [https://vcc3.surge.sh/](https://vcc3.surge.sh/)  
+> 🌐 **在线预览**: [https://vcc3.vercel.app/](https://vcc3.vercel.app/)  
 > 📦 **当前版本**: Vue3 + Vite  
 > 📚 **使用示例**: [https://github.com/sahadev/vcc3-use-demo](https://github.com/sahadev/vcc3-use-demo)
 
